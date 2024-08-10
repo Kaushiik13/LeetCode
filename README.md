@@ -1,2 +1,2 @@
 # LeetCode
-this repository contains my leetcode problems
+This repository contains my leetcode problems
